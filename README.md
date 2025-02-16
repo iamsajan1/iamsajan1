@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** speciali
 ## 🚀 About Me
 
 💻 **Full-Stack Developer** | 🌱 **Exploring Next.js & TypeScript** | 🔭 **Building Scalable Web Solutions**  
-📫 Reach me at **[Your Email or Social Media]**
+📫 Reach me at **KumarSantosh.iict06a@gmail.com**
 
 ---
 
